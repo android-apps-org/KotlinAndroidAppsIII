@@ -1,0 +1,2 @@
+include ':eggtimer'
+rootProject.name = "KotlinAndroidAppsIII"
